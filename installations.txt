@@ -1,0 +1,22 @@
+in client
+
+npm install @mui/material @emotion/react @emotion/styled
+npm i @react-oauth/google
+npm i jwt-decode
+npm i @mui/icons-material
+npm i axios
+
+in server
+
+npm i express
+npm i mongoose
+npm i dotenv
+npm i cors
+npm i body-parser
+npm i multer
+npm i multer-gridfs-storage
+
+in socket
+npm i socket.io
+npm i nodemon
+npm i socket.io-client
